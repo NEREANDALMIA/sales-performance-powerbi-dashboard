@@ -55,6 +55,6 @@ A 1-page interactive Power BI dashboard analyzing ₹1,638.7M in sales across 3 
 ---
 
 ## 🚀 How to Use
-1. Download `Sales_Performance.pbix` and open in Power BI Desktop
+1. Download `SALES PERFORMANCE.pbix` and open in Power BI Desktop
 2. Use **Year Slicers** (top right) to filter by 2022 / 2023 / 2024
 3. Click any visual to **cross-filter** the entire dashboard
