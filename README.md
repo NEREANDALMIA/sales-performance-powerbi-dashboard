@@ -50,7 +50,7 @@ A 1-page interactive Power BI dashboard analyzing ₹1,638.7M in sales across 3 
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](screenshot.png)
+![Dashboard Preview](SALES-PERFORMANCE-DASHBOARD.png)
 
 ---
 
